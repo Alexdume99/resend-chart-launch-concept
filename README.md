@@ -21,4 +21,4 @@ proved non-deterministic across Remotion's parallel render tabs.
 
 I build launch videos like this for SaaS teams. Hook, script, video,
 three formats from one build, delivered in 48h.
-Contact: alex.dume.99@gmail.com
+Contact: alex@ades-studio.fr
